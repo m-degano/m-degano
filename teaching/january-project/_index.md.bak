@@ -15,9 +15,9 @@ assignments (first-order team semantics, Galliani 2021) or possible worlds (team
 
 Dynamic semantics and inquisitive semantics can also be considered examples of team-based systems. </p>
 <p style="text-align:justify">
-Historically, team semantics was developed as the main semantics for {{<hl>}}(in)dependence logics{{</hl>}} (Hodge 1997; Väänänen 2007, Galliani 2021), with applications in many areas (database theory, quantum theory, networks, …) [see e.g. <a href="https://www.knaw.nl/en/news/calendar/en/news/calendar/dependence-logic" target="_blank" rel="noopener noreferrer">Presentations Academy Colloquium Dependence Logic</a>, Amsterdam, 2014]. 
-A notable mention is our dear departed ILLC colleague <a href="https://www.illc.uva.nl/NewsandEvents/News/Obituaries/Theo-Janssen-1948-2018-/" target="_blank" rel="noopener noreferrer">Theo Janssen/</a>, who dedicated his last works to 
-the applications of dependence logics to natural language semantics, with a focus on compositionality and the _de re/ de dicto_ distinction (Janssen 2013). 
+Historically, team semantics was developed as the main semantics for {{<hl>}}(in)dependence logics{{</hl>}} (Hintikka and Sandu 1989; Hodge 1997; Väänänen 2007, Galliani 2021), with applications in many areas (database theory, quantum theory, networks, …) [see e.g. <a href="https://www.knaw.nl/en/news/calendar/en/news/calendar/dependence-logic" target="_blank" rel="noopener noreferrer">Presentations Academy Colloquium Dependence Logic</a>, Amsterdam, 2014]. 
+A notable mention goes to our dear departed ILLC colleague <a href="https://www.illc.uva.nl/NewsandEvents/News/Obituaries/Theo-Janssen-1948-2018-/" target="_blank" rel="noopener noreferrer">Theo Janssen</a>, who dedicated his last works to 
+the applications of dependence logics to natural language semantics, with a focus on compositionality and the <i>de re/de dicto</i> distinction (Janssen 2013). 
 
 </p>
 <p style="text-align:justify">
@@ -58,7 +58,7 @@ Brasoveanu, A., Farkas, D.F. (2011) "How indefinites choose their scope". _Lingu
 
 Galliani, P. (2021), "Dependence Logic", The Stanford Encyclopedia of Philosophy. URL: <a href="https://plato.stanford.edu/entries/logic-dependence/" target="_blank" rel="noopener noreferrer">plato.stanford.edu/entries/logic-dependence/</a> <br>
 
-Hintikka, Jaakko and Gabriel Sandu (1989), "Informational independence as a semantical phenomenon", in Logic, Methodology and Philosophy of Science VIII (J. E. Fenstad, et al., eds.), North-Holland, Amsterdam, doi:10.1016/S0049-237X(08)70066-1 <br>
+Hintikka, J. and Sandu G. (1989), "Informational independence as a semantical phenomenon", in Logic, Methodology and Philosophy of Science VIII (J. E. Fenstad, et al., eds.), North-Holland, Amsterdam, DOI: <a href="https://doi.org/10.1016/S0049-237X(08)70066-1" target="_blank" rel="noopener noreferrer">10.1016/S0049-237X(08)70066-1</a><br>
 
 Hodges, W. (1997), "Compositional Semantics for a Language of Imperfect Information", _Logic Journal of the IGPL_, 5(4): 539–563. DOI: <a href="https://doi.org/10.1093/jigpal/5.4.539" target="_blank" rel="noopener noreferrer">10.1093/jigpal/5.4.539</a> <br>
 
