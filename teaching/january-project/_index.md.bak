@@ -21,7 +21,7 @@ the applications of dependence logics to natural language semantics, with a focu
 
 </p>
 <p style="text-align:justify">
-In this course, we will provide an overview of different team-based systems with a focus on {{<hl>}}linguistic and philosophical applications{{</hl>}}.   We will examine the conceptual motivations behind team semantics and  concentrate on four main linguistic phenomena: free choice (Aloni 2021), modified numerals (Aloni and van Ormondt 2021), exceptional scope of indefinites (Brasoveanu and Farkas 2011), and marked indefinites (Aloni and Degano 2021). 
+In this project, we will provide an overview of different team-based systems with a focus on {{<hl>}}linguistic and philosophical applications{{</hl>}}.   We will examine the conceptual motivations behind team semantics and  concentrate on four main linguistic phenomena: free choice (Aloni 2021), modified numerals (Aloni and van Ormondt 2021), exceptional scope of indefinites (Brasoveanu and Farkas 2011), and marked indefinites (Aloni and Degano 2021). 
 </p>
 <p style="text-align:justify">
 Students with a mathematical or computational background are also very welcome and in the second part of the project they can decide to focus on the mathematical aspects of the frameworks  (as in Anttila 2021) or work on computational implementations.</p>
@@ -31,7 +31,7 @@ Students with a mathematical or computational background are also very welcome a
 ## Organization 
 
 <p style="text-align:justify">
-The course will feature three lectures in the first week. In the second week, students will choose a paper to read and present, followed by a discussion. We will provide a list of papers and discuss the nature of these presentations at the beginning of the course.  In the remaining two weeks, students will work on a short project (see <a href="./#assessment">Assessment</a>  below).
+The project will feature three lectures in the first week and a guest lecture by Alexi Anttila (most probably in the second week). In the second week, students will choose a paper to read and present, followed by a discussion. We will provide a list of papers and discuss the nature of these presentations at the beginning of the course.  In the remaining two weeks, students will work on a short project (see <a href="./#assessment">Assessment</a>  below).
 </p>
 
 ## Prerequisites 
@@ -43,7 +43,7 @@ An interest in the topic is all you need.
 ## Assessment 
 
 <p style="text-align:justify">
-The assessment might vary depending on the number of students enrolled. Ideally, it will involve a presentation and a short project.  We encourage projects done in groups, as students with different backgrounds can learn from each other. The project will be based on students' interests after individual meetings. Possible topics are (a) in-depth cross-linguistic study; (b) novel modelling of linguistic phenomena; (c) design of an experimental study; (d) mathematical explorations of the formal systems discussed during the project</p>
+The assessment might vary depending on the number of students enrolled. Ideally, it will involve a presentation and a short project.  We encourage projects done in groups, as students with different backgrounds can learn from each other. The project will be based on students' interests after individual meetings. Possible topics are (a) in-depth cross-linguistic study; (b) novel modelling of linguistic phenomena; (c) design of an experimental study; (d) mathematical explorations of the formal systems discussed during the project.</p>
 
 ## References 
 Aloni, M. (2021). "Logic and Conversation: the case of Free Choice". Ms. <a href="https://www.marialoni.org/resources/Aloni2021.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a><br>
