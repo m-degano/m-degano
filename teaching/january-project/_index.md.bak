@@ -1,0 +1,65 @@
+---
+title: "Team Semantics and Dependence: Linguistic and Philosophical Applications."
+linkTitle: "Team Semantics and Dependence: Lingustic and Philosophical Applications."
+summary: "MoL January Project (with Maria Aloni)"
+date: '2021-11-18'
+type: book
+---
+
+## Description
+
+
+<p style="text-align:justify">
+{{<hl>}}Team semantics{{</hl>}} generalizes the standard Tarskian notions of truth and satisfaction to sets of assignments/evaluation points, rather than single assignments. Dynamic semantics and inquisitive semantics can be considered examples of team-based systems. </p>
+<p style="text-align:justify">
+Historically, team semantics was developed as the main semantics for {{<hl>}}dependence logics{{</hl>}} (Hodge 1997; Väänänen 2007), with applications in many areas (database theory, quantum theory, networks, …) [see e.g. <a href="https://www.knaw.nl/en/news/calendar/en/news/calendar/dependence-logic" target="_blank" rel="noopener noreferrer">Presentations Academy Colloquium Dependence Logic</a>, Amsterdam, 2014]. 
+</p>
+<p style="text-align:justify">
+In this course, we will provide an overview of different team-based systems with a focus on {{<hl>}}linguistic and philosophical applications{{</hl>}}.   We will examine the conceptual motivations behind team semantics and  concentrate on four main linguistic phenomena: free choice (Aloni 2021), modified numerals (Aloni and van Ormondt 2021), exceptional scope of indefinites (Brasoveanu and Farkas 2011), and marked indefinites (Aloni and Degano 2021). 
+</p>
+<p style="text-align:justify">
+Students with a mathematical background are also very welcome and in their project they can decide to focus on the mathematical aspects of the frameworks presented in the course (as in Anttila 2021).
+</p>
+
+
+
+## Organization 
+
+<p style="text-align:justify">
+The course will feature three lectures in the first week. In the second week, students will choose a paper to read and present, followed by a discussion. We will provide a list of papers and discuss the nature of these presentations at the beginning of the course.  In the remaining two weeks, students will work on a short project (see <a href="./#assessment">Assessment</a>  below).
+</p>
+
+## Prerequisites 
+
+<p style="text-align:justify">
+An interest in the topic is all you need.
+</p>
+
+## Assessment 
+
+<p style="text-align:justify">
+The assessment might vary depending on the number of students enrolled. Ideally, it will involve a presentation and a short project. The presentation could be done in groups, but each student must take part in the class presentation. We encourage projects done in groups, as students with different backgrounds can learn from each other. The project will be based on students' interests after individual meetings. Possible topics are (a) in-depth cross-linguistic study; (b) novel modelling of linguistic phenomena;  (c) design of an experimental study; (d) mathematical explorations of the formal frameworks discussed during the course. 
+</p>
+
+## References 
+Aloni, M. (2021). "Logic and Conversation: the case of Free Choice". Ms. <a href="https://www.marialoni.org/resources/Aloni2021.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a><br>
+
+Aloni, M. and Degano, M. (2021). "(Non-)specificity across languages:  constancy, variation, v-variation". Ms. (available before the beginning of the course) <br>
+
+Aloni, M and Ormondt, P van. (2021). "Modified numerals and split disjunction: the first-order case." Ms. <a href="https://www.marialoni.org/resources/AlonivOrmondt21.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a> <br>
+
+Anttila, A. (2021). _The Logic of Free Choice Axiomatizations of State-based Modal Logics_. MoL Thesis. <a href="https://eprints.illc.uva.nl/id/eprint/1788/1/MoL-2021-03.text.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a><br>
+
+Brasoveanu, A., Farkas, D.F. (2011) "How indefinites choose their scope". _Linguistic and Philosophy_ 34, 1–55. DOI: <a href="https://doi.org/10.1007/s10988-011-9092-7" target="_blank" rel="noopener noreferrer">10.1007/s10988-011-9092-7</a>
+
+Galliani, P. (2021), "Dependence Logic", The Stanford Encyclopedia of Philosophy. URL: <a href="https://plato.stanford.edu/entries/logic-dependence/" target="_blank" rel="noopener noreferrer">plato.stanford.edu/entries/logic-dependence/</a> <br>
+
+Hodges, W. (1997), "Compositional Semantics for a Language of Imperfect Information", _Logic Journal of the IGPL_, 5(4): 539–563. DOI: <a href="https://doi.org/10.1093/jigpal/5.4.539" target="_blank" rel="noopener noreferrer">10.1093/jigpal/5.4.539</a> <br>
+
+Janssen, T. M. (2013). "Compositional natural language semantics using independence friendly logic or dependence logic". _Studia Logica_, 101(2), 453-466. DOI: <a href="https://doi.org/10.1007/s11225-013-9480-9" target="_blank" rel="noopener noreferrer">10.1007/s11225-013-9480-9</a> <br>
+
+Väänänen, J. (2007), _Dependence Logic: A New Approach to Independence Friendly Logic_, (London Mathematical Society student texts, 70), Cambridge: Cambridge University Press. DOI: <a href="https://doi.org/10.1017/CBO9780511611193" target="_blank" rel="noopener noreferrer">10.1017/CBO9780511611193</a> 
+
+
+
+
