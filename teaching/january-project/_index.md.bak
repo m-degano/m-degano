@@ -16,7 +16,8 @@ assignments (first-order team semantics, Galliani 2021) or possible worlds (team
 Dynamic semantics and inquisitive semantics can also be considered examples of team-based systems. </p>
 <p style="text-align:justify">
 Historically, team semantics was developed as the main semantics for {{<hl>}}(in)dependence logics{{</hl>}} (Hodge 1997; Väänänen 2007, Galliani 2021), with applications in many areas (database theory, quantum theory, networks, …) [see e.g. <a href="https://www.knaw.nl/en/news/calendar/en/news/calendar/dependence-logic" target="_blank" rel="noopener noreferrer">Presentations Academy Colloquium Dependence Logic</a>, Amsterdam, 2014]. 
-Our dear departed ILLC colleague Theo Janssen deserves a notable mention, 
+A notable mention is our dear departed ILLC colleague <a href="https://www.illc.uva.nl/NewsandEvents/News/Obituaries/Theo-Janssen-1948-2018-/" target="_blank" rel="noopener noreferrer">Theo Janssen/</a>, who dedicated his last works to 
+the applications of dependence logics to natural language semantics, with a focus on compositionality and the _de re/ de dicto_ distinction (Janssen 2013). 
 
 </p>
 <p style="text-align:justify">
