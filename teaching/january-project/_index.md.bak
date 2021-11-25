@@ -15,8 +15,7 @@ These evaluations points can be valuations (propositional team logic, Yang and V
 assignments (first-order team semantics, Galliani 2021) or possible worlds (team-based modal logic, Aloni 2021; Lück 2020). Dynamic semantics and inquisitive semantics can also be considered examples of team-based systems. </p>
 <p style="text-align:justify">
 Historically, team semantics was developed as the main semantics for {{<hl>}}(in)dependence logics{{</hl>}} (Hintikka and Sandu 1989; Hodge 1997; Väänänen 2007, Galliani 2021), with applications in many areas (database theory, quantum theory, networks, …) [see e.g. <a href="https://www.knaw.nl/en/news/calendar/en/news/calendar/dependence-logic" target="_blank" rel="noopener noreferrer">Presentations Academy Colloquium Dependence Logic</a>, Amsterdam, 2014]. 
-A notable mention goes to our dear departed ILLC colleague <a href="https://www.illc.uva.nl/NewsandEvents/News/Obituaries/Theo-Janssen-1948-2018-/" target="_blank" rel="noopener noreferrer">Theo Janssen</a>, who dedicated his last works to 
-the applications of logics of dependence and independence to natural language semantics, with a focus on compositionality and the <i>de re/de dicto</i> distinction (Janssen 2013). 
+A special mention goes to our dear departed ILLC colleague <a href="https://www.illc.uva.nl/NewsandEvents/News/Obituaries/Theo-Janssen-1948-2018-/" target="_blank" rel="noopener noreferrer">Theo Janssen</a>, who dedicated his last works to the applications of logics of dependence and independence to natural language semantics, with a focus on compositionality and the <i>de re/de dicto</i> distinction (Janssen 2013). 
 
 </p>
 <p style="text-align:justify">
@@ -63,7 +62,7 @@ Hodges, W. (1997), "Compositional Semantics for a Language of Imperfect Informat
 
 Janssen, T. M. (2013). "Compositional natural language semantics using independence friendly logic or dependence logic". _Studia Logica_, 101(2), 453-466. DOI: <a href="https://doi.org/10.1007/s11225-013-9480-9" target="_blank" rel="noopener noreferrer">10.1007/s11225-013-9480-9</a> <br>
 
-Lück, M. (2020). _Team logic : axioms, expressiveness, complexity_. Hannover : Gottfried Wilhelm Leibniz Universität, Diss., 2020, x, 205 S. DOI: <a href="https://doi.org/10.15488/9376" target="_blank" rel="noopener noreferrer">10.15488/9376"</a> <br>
+Lück, M. (2020). _Team logic : axioms, expressiveness, complexity_. Hannover : Gottfried Wilhelm Leibniz Universität. PhD Thesis. DOI: <a href="https://doi.org/10.15488/9376" target="_blank" rel="noopener noreferrer">10.15488/9376"</a> <br>
 
 Väänänen, J. (2007), _Dependence Logic: A New Approach to Independence Friendly Logic_, (London Mathematical Society student texts, 70), Cambridge: Cambridge University Press. DOI: <a href="https://doi.org/10.1017/CBO9780511611193" target="_blank" rel="noopener noreferrer">10.1017/CBO9780511611193</a> 
 
