@@ -2,7 +2,7 @@
 title: "Team Semantics and Dependence: Linguistic and Philosophical Applications."
 linkTitle: "Team Semantics and Dependence: Lingustic and Philosophical Applications."
 summary: "MoL January Project (with Maria Aloni)"
-date: '`r format(Sys.Date(), "%B %d, %Y")`'
+date: '%Y-%m-%d'
 type: book
 ---
 <p style="text-align:justify">
