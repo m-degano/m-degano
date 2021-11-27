@@ -2,9 +2,14 @@
 title: "Team Semantics and Dependence: Linguistic and Philosophical Applications."
 linkTitle: "Team Semantics and Dependence: Lingustic and Philosophical Applications."
 summary: "MoL January Project (with Maria Aloni)"
-date: '2021-11-25'
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
 type: book
 ---
+<p style="text-align:justify">
+<i>
+If you are interested in this project, please contact the instructors by email before 22 December 2021. In special cases, we will accept later regitrations, but we would like to have an idea of the number of students before the Christmas break. 
+</i>
+</p>
 
 ## Description
 
@@ -15,7 +20,7 @@ These evaluations points can be valuations (propositional team logic, Yang and V
 assignments (first-order team semantics, Galliani 2021) or possible worlds (team-based modal logic, Aloni 2021; Lück 2020). Dynamic semantics and inquisitive semantics can also be considered examples of team-based systems. </p>
 <p style="text-align:justify">
 Historically, team semantics was developed as the main semantics for {{<hl>}}(in)dependence logics{{</hl>}} (Hintikka and Sandu 1989; Hodge 1997; Väänänen 2007, Galliani 2021), with applications in many areas (database theory, quantum theory, networks, …) [see e.g. <a href="https://www.knaw.nl/en/news/calendar/en/news/calendar/dependence-logic" target="_blank" rel="noopener noreferrer">Presentations Academy Colloquium Dependence Logic</a>, Amsterdam, 2014]. 
-A special mention goes to our dear departed ILLC colleague <a href="https://www.illc.uva.nl/NewsandEvents/News/Obituaries/Theo-Janssen-1948-2018-/" target="_blank" rel="noopener noreferrer">Theo Janssen</a>, who dedicated his last works to the applications of logics of dependence and independence to natural language semantics (in particular compositionality and the <i>de re/de dicto</i> distinction, Janssen 2013). 
+A special mention goes to our ILLC colleague <a href="https://www.illc.uva.nl/NewsandEvents/News/Obituaries/Theo-Janssen-1948-2018-/" target="_blank" rel="noopener noreferrer">Theo Janssen (1948-2018)</a>, who dedicated his last works to the applications of logics of dependence and independence to natural language semantics (in particular compositionality and the <i>de re/de dicto</i> distinction, Janssen 2013). 
 
 </p>
 <p style="text-align:justify">
@@ -44,6 +49,7 @@ An interest in the topic is all you need.
 The assessment might vary depending on the number of students enrolled. Ideally, it will involve a presentation and a short project.  We encourage projects done in groups, as students with different backgrounds can learn from each other. The project will be based on students' interests after individual meetings. Possible topics are (a) in-depth cross-linguistic study; (b) novel modelling of linguistic phenomena; (c) design of an experimental study; (d) mathematical explorations of the formal systems discussed during the project.</p>
 
 ## References 
+
 Aloni, M. (2021). "Logic and Conversation: the case of Free Choice". Ms. <a href="https://www.marialoni.org/resources/Aloni2021.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a><br>
 
 Aloni, M. and Degano, M. (2021). "(Non-)specificity across languages:  constancy, variation, v-variation". Ms. (available before the beginning of the course) <br>
@@ -66,7 +72,7 @@ Lück, M. (2020). _Team logic : axioms, expressiveness, complexity_. Hannover : 
 
 Väänänen, J. (2007), _Dependence Logic: A New Approach to Independence Friendly Logic_, (London Mathematical Society student texts, 70), Cambridge: Cambridge University Press. DOI: <a href="https://doi.org/10.1017/CBO9780511611193" target="_blank" rel="noopener noreferrer">10.1017/CBO9780511611193</a> 
 
-Yang, F., and Väänänen, J. (2017). "Propositional team logics." Annals of Pure and Applied Logic 168.7: 1406-1441. DOI: <a href="https://doi.org/10.1016/j.apal.2017.01.007" target="_blank" rel="noopener noreferrer">10.1016/j.apal.2017.01.007</a> <br>
+Yang, F., and Väänänen, J. (2017). "Propositional team logics." Annals of Pure and Applied Logic 168.7: 1406-1441. DOI: <a href="https://doi.org/10.1016/j.apal.2017.01.007" target="_blank" rel="noopener noreferrer">10.1016/j.apal.2017.01.007</a>
 
 
 
