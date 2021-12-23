@@ -1,0 +1,20 @@
+---
+title: Introduction
+date: '2021-11-18'
+type: book
+weight: 20
+highlight: true
+---
+(TO BE UPDATED)
+
+## Overview
+
+<p style="text-align:justify">
+(In)dependence logics are a family of approaches which add (in)dependence relations to first-order logic. The basic semantic framework for dependence logics is Team Semantics, which generalize the standard notion of truth and satisfaction to sets of assignments, rather than single assignments. 
+</p>
+
+<p style="text-align:justify">
+In this introductory lecture, we will review the history of dependence logics and briefly outline some of their applications. We will then consider mainstream approaches to team semantics and dependence logics and set up the building blocks for the rest of the course. 
+</p>
+
+## References
