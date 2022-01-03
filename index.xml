@@ -13,6 +13,81 @@
     </image>
     
     <item>
+      <title>Schedule</title>
+      <link>http://localhost:1313/teaching/january-project/schedule/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/january-project/schedule/</guid>
+      <description>&lt;p style=&#34;text-align:justify&#34;&gt;
+Here you can find the schedule of the course! The lectures in week 1 are mostly self-contained, but students are expected to study the associated readings, especially in view of the final project. 
+&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Day&lt;/th&gt;
+	&lt;th&gt;Time&lt;/th&gt;
+    &lt;th&gt;Topic&lt;/th&gt;
+    &lt;th&gt;Readings&lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Tue 11 &lt;/td&gt;
+	&lt;td&gt;11:00 - 13:00&lt;/td&gt;
+    &lt;td&gt;Introduction &amp; Free Choice I&lt;/td&gt;
+    &lt;td&gt;- &lt;a href=&#34;https://plato.stanford.edu/entries/logic-dependence/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Galliani (2021) [sec. 1, 2, 3]&lt;/a&gt;&lt;br&gt;- &lt;a href=&#34;https://www.marialoni.org/resources/Aloni2021.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni (2021)&lt;/a&gt;&lt;br&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Wed 12&lt;/td&gt;
+	&lt;td&gt;11:00 - 13:00&lt;/td&gt;
+    &lt;td&gt;Free Choice II &amp; Modified Numerals &lt;br&gt;&lt;/td&gt;
+    &lt;td&gt;- &lt;a href=&#34;https://www.marialoni.org/resources/AlonivOrmondt21.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni and van Ormondt (2021)&lt;/a&gt; &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Thu 13&lt;/td&gt;
+	&lt;td&gt;11:00 - 13:00&lt;/td&gt;
+    &lt;td&gt;Indefinites &lt;/td&gt;
+    &lt;td&gt;- &lt;a href=&#34;http://localhost:1313/teaching/january-project/bf2011.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Brasoveanu and Farkas (2011)&lt;/a&gt;&lt;br&gt;- &lt;a href=&#34;http://localhost:1313/teaching/january-project/marked_indefinites.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni and Degano (2021)&lt;/a&gt; &lt;br&gt; &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Fri 14&lt;/td&gt;
+	&lt;td&gt;11:00 - 12:00&lt;/td&gt;
+    &lt;td&gt;Overview Presentations and Possible Projects&lt;/td&gt;
+    &lt;td&gt; &lt;/td&gt;
+  &lt;/tr&gt;  
+  &lt;tr style=&#34;border-bottom:1px solid black&#34;&gt;
+    &lt;td colspan=&#34;100%&#34;&gt;&lt;/td&gt;
+	&lt;tr&gt;
+    &lt;td&gt;Tue 18 &lt;/td&gt;
+    &lt;td&gt;11:00 - 13:00&lt;/td&gt;
+    &lt;td&gt;Guest Lecture Aleksi&lt;/td&gt;
+	&lt;td&gt;- &lt;a href=&#34;http://localhost:1313/teaching/january-project/slides_aleksi.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni, Antilla and Yang (2021)&lt;/a&gt; &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Wed 19&lt;/td&gt;
+    &lt;td&gt;11:00 - 13:00&lt;/td&gt;
+    &lt;td&gt;Presentations I&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Thu 20&lt;/td&gt;
+    &lt;td&gt;11:00 - 13:00&lt;/td&gt;
+    &lt;td&gt;Presentations II&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr style=&#34;border-bottom:1px solid black&#34;&gt;
+    &lt;td colspan=&#34;100%&#34;&gt;&lt;/td&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Mon 24&lt;/td&gt;
+    &lt;td&gt;13:00 - 17:00&lt;/td&gt;
+    &lt;td&gt;Individual/Groups Meetings&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+  &lt;/tr&gt;  
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>http://localhost:1313/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
