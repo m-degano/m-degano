@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marco Degano</title>
-    <link>http://localhost:42987/</link>
-      <atom:link href="http://localhost:42987/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:39115/</link>
+      <atom:link href="http://localhost:39115/index.xml" rel="self" type="application/rss+xml" />
     <description>Marco Degano</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:42987/media/icon_hu79a9197dc4a6a7f3ef06f7edbf92a384_19856_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:39115/media/icon_hu79a9197dc4a6a7f3ef06f7edbf92a384_19856_512x512_fill_lanczos_center_3.png</url>
       <title>Marco Degano</title>
-      <link>http://localhost:42987/</link>
+      <link>http://localhost:39115/</link>
     </image>
     
     <item>
       <title>Schedule (with slides)</title>
-      <link>http://localhost:42987/teaching/january-project/schedule/</link>
+      <link>http://localhost:39115/teaching/january-project/schedule/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42987/teaching/january-project/schedule/</guid>
+      <guid>http://localhost:39115/teaching/january-project/schedule/</guid>
       <description>&lt;p style=&#34;text-align:justify&#34;&gt;
 Here you can find the schedule of the course! The lectures in week 1 are mostly self-contained, but students are expected to study the associated readings, especially in view of the final project. 
 &lt;/p&gt;
@@ -33,20 +33,20 @@ Here you can find the schedule of the course! The lectures in week 1 are mostly 
   &lt;tr&gt;
     &lt;td&gt;Tue 11 &lt;/td&gt;
 	&lt;td&gt;11:00 - 13:00&lt;/td&gt;
-    &lt;td&gt;Introduction &amp; Free Choice I &lt;a href=&#34;http://localhost:42987/teaching/january-project/01_Introduction_annotated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides)&lt;/a&gt; &lt;/td&gt;
+    &lt;td&gt;Introduction &amp; Free Choice I &lt;a href=&#34;http://localhost:39115/teaching/january-project/01_Introduction_annotated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides)&lt;/a&gt; &lt;/td&gt;
     &lt;td&gt;- &lt;a href=&#34;https://plato.stanford.edu/entries/logic-dependence/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Galliani (2021) [sec. 1, 2, 3]&lt;/a&gt;&lt;br&gt;- &lt;a href=&#34;https://www.marialoni.org/resources/Aloni2022.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni (2022)&lt;/a&gt;&lt;br&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;Wed 12&lt;/td&gt;
 	&lt;td&gt;11:00 - 13:00&lt;/td&gt;
-    &lt;td&gt;Free Choice II &amp; Modified Numerals &lt;a href=&#34;http://localhost:42987/teaching/january-project/02_Modified_Numerals_annotated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides) &lt;/a&gt; + Jialiang Presentation &lt;a href=&#34;http://localhost:42987/teaching/january-project/monotonicity and QBSML.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides) &lt;/a&gt;&lt;br&gt;&lt;/td&gt;
+    &lt;td&gt;Free Choice II &amp; Modified Numerals &lt;a href=&#34;http://localhost:39115/teaching/january-project/02_Modified_Numerals_annotated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides) &lt;/a&gt; + Jialiang Presentation &lt;a href=&#34;http://localhost:39115/teaching/january-project/monotonicity and QBSML.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides) &lt;/a&gt;&lt;br&gt;&lt;/td&gt;
     &lt;td&gt;- &lt;a href=&#34;https://www.marialoni.org/resources/AlonivOrmondt21.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni and van Ormondt (2021)&lt;/a&gt; &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;Thu 13&lt;/td&gt;
 	&lt;td&gt;11:00 - 13:00&lt;/td&gt;
-    &lt;td&gt;Indefinites  &lt;a href=&#34;http://localhost:42987/teaching/january-project/03_Indefinites_annotated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides) &lt;/a&gt;&lt;/td&gt;
-    &lt;td&gt;-&lt;a href=&#34;http://localhost:42987/teaching/january-project/marked_indefinites.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni and Degano (2021)&lt;/a&gt; &lt;br&gt; &lt;/td&gt;
+    &lt;td&gt;Indefinites  &lt;a href=&#34;http://localhost:39115/teaching/january-project/03_Indefinites_annotated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides) &lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;-&lt;a href=&#34;http://localhost:39115/teaching/january-project/marked_indefinites.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni and Degano (2021)&lt;/a&gt; &lt;br&gt; &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;Fri 14&lt;/td&gt;
@@ -60,7 +60,7 @@ Here you can find the schedule of the course! The lectures in week 1 are mostly 
     &lt;td&gt;Tue 18 &lt;/td&gt;
     &lt;td&gt;11:00 - 13:00&lt;/td&gt;
     &lt;td&gt;Guest Lecture Aleksi&lt;/td&gt;
-	&lt;td&gt;- &lt;a href=&#34;http://localhost:42987/teaching/january-project/slides_aleksi.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni, Antilla and Yang (2021)&lt;/a&gt; &lt;/td&gt;
+	&lt;td&gt;- &lt;a href=&#34;http://localhost:39115/teaching/january-project/slides_aleksi.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni, Antilla and Yang (2021)&lt;/a&gt; &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;Wed 19&lt;/td&gt;
@@ -89,9 +89,9 @@ Here you can find the schedule of the course! The lectures in week 1 are mostly 
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:42987/talk/example-talk/</link>
+      <link>http://localhost:39115/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:42987/talk/example-talk/</guid>
+      <guid>http://localhost:39115/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -109,25 +109,25 @@ Here you can find the schedule of the course! The lectures in week 1 are mostly 
     
     <item>
       <title>(Non-)specificity across languages: constancy, variation, v-variation</title>
-      <link>http://localhost:42987/publication/non-specificity-across-languages/</link>
+      <link>http://localhost:39115/publication/non-specificity-across-languages/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42987/publication/non-specificity-across-languages/</guid>
+      <guid>http://localhost:39115/publication/non-specificity-across-languages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indefinites and Free Choice: When the Past Matters</title>
-      <link>http://localhost:42987/publication/indefinites-and-free-choice/</link>
+      <link>http://localhost:39115/publication/indefinites-and-free-choice/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42987/publication/indefinites-and-free-choice/</guid>
+      <guid>http://localhost:39115/publication/indefinites-and-free-choice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>http://localhost:42987/post/getting-started/</link>
+      <link>http://localhost:39115/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42987/post/getting-started/</guid>
+      <guid>http://localhost:39115/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -202,27 +202,27 @@ Here you can find the schedule of the course! The lectures in week 1 are mostly 
     
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:42987/privacy/</link>
+      <link>http://localhost:39115/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:42987/privacy/</guid>
+      <guid>http://localhost:39115/privacy/</guid>
       <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>http://localhost:42987/terms/</link>
+      <link>http://localhost:39115/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:42987/terms/</guid>
+      <guid>http://localhost:39115/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Example Project</title>
-      <link>http://localhost:42987/project/example/</link>
+      <link>http://localhost:39115/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42987/project/example/</guid>
+      <guid>http://localhost:39115/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -233,9 +233,9 @@ Here you can find the schedule of the course! The lectures in week 1 are mostly 
     
     <item>
       <title></title>
-      <link>http://localhost:42987/admin/config.yml</link>
+      <link>http://localhost:39115/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42987/admin/config.yml</guid>
+      <guid>http://localhost:39115/admin/config.yml</guid>
       <description></description>
     </item>
     
