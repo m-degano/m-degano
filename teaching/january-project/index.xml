@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team Semantics and Dependence: Linguistic and Philosophical Applications. | Marco Degano</title>
-    <link>http://localhost:39115/teaching/january-project/</link>
-      <atom:link href="http://localhost:39115/teaching/january-project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:44425/teaching/january-project/</link>
+      <atom:link href="http://localhost:44425/teaching/january-project/index.xml" rel="self" type="application/rss+xml" />
     <description>Team Semantics and Dependence: Linguistic and Philosophical Applications.</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:39115/teaching/january-project/featured.jpg</url>
+      <url>http://localhost:44425/teaching/january-project/featured.jpg</url>
       <title>Team Semantics and Dependence: Linguistic and Philosophical Applications.</title>
-      <link>http://localhost:39115/teaching/january-project/</link>
+      <link>http://localhost:44425/teaching/january-project/</link>
     </image>
     
     <item>
       <title>Schedule (with slides)</title>
-      <link>http://localhost:39115/teaching/january-project/schedule/</link>
+      <link>http://localhost:44425/teaching/january-project/schedule/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39115/teaching/january-project/schedule/</guid>
+      <guid>http://localhost:44425/teaching/january-project/schedule/</guid>
       <description>&lt;p style=&#34;text-align:justify&#34;&gt;
 Here you can find the schedule of the course! The lectures in week 1 are mostly self-contained, but students are expected to study the associated readings, especially in view of the final project. 
 &lt;/p&gt;
@@ -33,20 +33,20 @@ Here you can find the schedule of the course! The lectures in week 1 are mostly 
   &lt;tr&gt;
     &lt;td&gt;Tue 11 &lt;/td&gt;
 	&lt;td&gt;11:00 - 13:00&lt;/td&gt;
-    &lt;td&gt;Introduction &amp; Free Choice I &lt;a href=&#34;http://localhost:39115/teaching/january-project/01_Introduction_annotated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides)&lt;/a&gt; &lt;/td&gt;
+    &lt;td&gt;Introduction &amp; Free Choice I &lt;a href=&#34;http://localhost:44425/teaching/january-project/01_Introduction_annotated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides)&lt;/a&gt; &lt;/td&gt;
     &lt;td&gt;- &lt;a href=&#34;https://plato.stanford.edu/entries/logic-dependence/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Galliani (2021) [sec. 1, 2, 3]&lt;/a&gt;&lt;br&gt;- &lt;a href=&#34;https://www.marialoni.org/resources/Aloni2022.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni (2022)&lt;/a&gt;&lt;br&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;Wed 12&lt;/td&gt;
 	&lt;td&gt;11:00 - 13:00&lt;/td&gt;
-    &lt;td&gt;Free Choice II &amp; Modified Numerals &lt;a href=&#34;http://localhost:39115/teaching/january-project/02_Modified_Numerals_annotated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides) &lt;/a&gt; + Jialiang Presentation &lt;a href=&#34;http://localhost:39115/teaching/january-project/monotonicity and QBSML.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides) &lt;/a&gt;&lt;br&gt;&lt;/td&gt;
+    &lt;td&gt;Free Choice II &amp; Modified Numerals &lt;a href=&#34;http://localhost:44425/teaching/january-project/02_Modified_Numerals_annotated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides) &lt;/a&gt; + Jialiang Presentation &lt;a href=&#34;http://localhost:44425/teaching/january-project/monotonicity and QBSML.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides) &lt;/a&gt;&lt;br&gt;&lt;/td&gt;
     &lt;td&gt;- &lt;a href=&#34;https://www.marialoni.org/resources/AlonivOrmondt21.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni and van Ormondt (2021)&lt;/a&gt; &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;Thu 13&lt;/td&gt;
 	&lt;td&gt;11:00 - 13:00&lt;/td&gt;
-    &lt;td&gt;Indefinites  &lt;a href=&#34;http://localhost:39115/teaching/january-project/03_Indefinites_annotated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides) &lt;/a&gt;&lt;/td&gt;
-    &lt;td&gt;-&lt;a href=&#34;http://localhost:39115/teaching/january-project/marked_indefinites.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni and Degano (2021)&lt;/a&gt; &lt;br&gt; &lt;/td&gt;
+    &lt;td&gt;Indefinites  &lt;a href=&#34;http://localhost:44425/teaching/january-project/03_Indefinites_annotated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;(slides) &lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;-&lt;a href=&#34;http://localhost:44425/teaching/january-project/marked_indefinites.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni and Degano (2021)&lt;/a&gt; &lt;br&gt; &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;Fri 14&lt;/td&gt;
@@ -60,7 +60,7 @@ Here you can find the schedule of the course! The lectures in week 1 are mostly 
     &lt;td&gt;Tue 18 &lt;/td&gt;
     &lt;td&gt;11:00 - 13:00&lt;/td&gt;
     &lt;td&gt;Guest Lecture Aleksi&lt;/td&gt;
-	&lt;td&gt;- &lt;a href=&#34;http://localhost:39115/teaching/january-project/slides_aleksi.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni, Antilla and Yang (2021)&lt;/a&gt; &lt;/td&gt;
+	&lt;td&gt;- &lt;a href=&#34;http://localhost:44425/teaching/january-project/slides_aleksi.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aloni, Antilla and Yang (2021)&lt;/a&gt; &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;Wed 19&lt;/td&gt;

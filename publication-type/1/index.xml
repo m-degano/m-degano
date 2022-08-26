@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Marco Degano</title>
-    <link>http://localhost:39115/publication-type/1/</link>
-      <atom:link href="http://localhost:39115/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:44425/publication-type/1/</link>
+      <atom:link href="http://localhost:44425/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:39115/media/icon_hu79a9197dc4a6a7f3ef06f7edbf92a384_19856_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:44425/media/icon_hu79a9197dc4a6a7f3ef06f7edbf92a384_19856_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>http://localhost:39115/publication-type/1/</link>
+      <link>http://localhost:44425/publication-type/1/</link>
     </image>
     
     <item>
       <title>(Non-)specificity across languages: constancy, variation, v-variation</title>
-      <link>http://localhost:39115/publication/non-specificity-across-languages/</link>
+      <link>http://localhost:44425/publication/non-specificity-across-languages/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39115/publication/non-specificity-across-languages/</guid>
+      <guid>http://localhost:44425/publication/non-specificity-across-languages/</guid>
       <description></description>
     </item>
     
