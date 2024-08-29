@@ -4,12 +4,12 @@ body {
   font-size: 18px;
   line-height: 1.8;
   color: #333;
-  padding-top: 80px; /* Add padding-top equal to header height to prevent content being hidden */
+  padding-top: 80px; 
   margin: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #f8f9fa; /* Light background for a professional look */
+  background-color: #f8f9fa; 
 }
 
 a {
@@ -33,7 +33,7 @@ header {
   top: 0;
   left: 0;
   z-index: 100;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for header */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
 }
 
 header nav {
@@ -50,14 +50,14 @@ header a {
 
 /* Container */
 .container {
-  max-width: 1200px; /* Increased max-width for a wider layout */
+  max-width: 1200px; /
   width: 100%;
   padding: 20px;
   box-sizing: border-box;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  margin-top: 20px; /* Space between content and header */
+  margin-top: 20px; 
 }
 
 /* Main Content */
@@ -77,21 +77,21 @@ section {
 section h2 {
   font-size: 1.5em;
   margin-bottom: 0.5em;
-  color: #333; /* Darker heading color */
-  border-bottom: 2px solid #ddd; /* Underline for section headings */
+  color: #333; 
+  border-bottom: 2px solid #ddd; 
   padding-bottom: 10px;
 }
 
 /* Profile Section */
 #profile {
-  width: 25%; /* Slightly narrower profile section */
+  width: 25%;
   padding-right: 20px;
   box-sizing: border-box;
 }
 
 #profile img {
   max-width: 100%;
-  border-radius: 8px; /* Rounded corners for images */
+  border-radius: 8px; 
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
@@ -107,7 +107,7 @@ section h2 {
   margin-bottom: 5px;
   margin-top: 0;
   font-size: 1.8em;
-  color: #333; /* Darker heading color */
+  color: #333;
 }
 
 #profile-text .position {
@@ -125,13 +125,13 @@ footer {
   width: 100%;
   position: fixed;
   bottom: 0;
-  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for footer */
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
 }
 
 /* Mobile Styles */
 @media (max-width: 768px) {
   .container {
-    flex-direction: column; /* Stack elements vertically */
+    flex-direction: column; 
     padding: 10px;
   }
 
